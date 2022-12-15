@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/games 
+Content-Type: application/json
+
+{
+    "content": "Resident Evil: historia del apocalipsis zombi y sus protagonistas",
+    "important": true
+}
